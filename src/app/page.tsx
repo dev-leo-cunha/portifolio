@@ -27,10 +27,10 @@ const Page = () => {
         </Link>
       </div>
       <div className="grid grid-cols-2 gap-16 max-lg:mt-4 ">
-        <img src="img/js.png" alt="Javacript" className="h-24 m-2 max-[450px]:h-20" />
-        <img src="img/ts.png" alt="Typescript" className="h-24 m-2 max-[450px]:h-20" />
-        <img src="img/node.png" alt="Node JS" className="h-24 m-2 max-[450px]:h-20" />
-        <img src="img/next.png" alt="Next.JS" className="h-24 m-2 max-[450px]:h-20" />
+        <img src="img/imgHome/js.png" alt="Javacript" className="h-24 m-2 max-[450px]:h-20" />
+        <img src="img/imgHome/ts.png" alt="Typescript" className="h-24 m-2 max-[450px]:h-20" />
+        <img src="img/imgHome/node.png" alt="Node JS" className="h-24 m-2 max-[450px]:h-20" />
+        <img src="img/imgHome/next.png" alt="Next.JS" className="h-24 m-2 max-[450px]:h-20" />
       </div>
     </main>
   )
